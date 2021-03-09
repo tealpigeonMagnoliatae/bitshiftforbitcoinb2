@@ -1,0 +1,61 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    string str = "b2411023acda3c1303eb57c643dbad32d7d6070c31fbc7dd6a6fbf7802b1a269";
+
+    // you can also use str.length()
+    cout << "String Length = " << str.size();
+
+    return 0;
+}
+
+
+
+int old(){
+char alphabets[26] = {'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
+char Alphabets[26] = {'A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'};
+
+    srand( (unsigned)time( NULL ) );
+    a = rand();
+
+    //b2411023acda3c1303eb57c643dbad32d7d6070c31fbc7dd6a6fbf7802b1a269
+    static int r[2];
+
+    r[3] = //letterUPcase
+    r[2] = //letterLowercase;
+    r[1] = a %10  //number;
+    r[0] //first segment;
+
+
+  //  string b = r[1]<<r[2]<<r[3];
+   // Cout << r[0]<<string b;
+
+
+
+    {
+  for (i=0;i=1;++i){
+  r[i] = rand();
+  }
+    }
+
+
+{
+srand( (unsigned)time( NULL ) );
+x = rand();
+}
+
+ int main()
+{
+  a = r[1];
+  b = r[2];
+  c = a || b;
+  return c;
+  }
+
+  {
+char alphabets[26] = {'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'};
+char Alphabets[26] = {'A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'}
+  }
